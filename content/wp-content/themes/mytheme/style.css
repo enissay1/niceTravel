@@ -1,0 +1,25 @@
+/*
+Theme Name: Mytheme
+*/
+main {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+body main{
+    width: 100%;
+    height: 100vh;
+    background: url(images/Dunes-consolidés1024x678.jpg )no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    @media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+p{
+    width: 340px;
+}
+
+
